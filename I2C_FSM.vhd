@@ -1,5 +1,5 @@
 -- I2C Master controller
--- Copyright Enoch Hwang 2008
+-- Authors: Sathwik, Bilal, Tarun
 
 LIBRARY IEEE;
 USE IEEE.STD_LOGIC_1164.ALL;
